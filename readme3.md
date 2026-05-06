@@ -373,9 +373,3 @@ This project demonstrates:
 * Docker networking
 * Azure VM deployment
 * Cloud-based container hosting
-
----
-
-# Author
-
-Your Name
